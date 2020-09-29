@@ -1,0 +1,1 @@
+Adding file to staging area and removing it using git restore
