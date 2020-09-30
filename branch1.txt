@@ -1,1 +1,2 @@
 New file created as branch 1
+New line is added
